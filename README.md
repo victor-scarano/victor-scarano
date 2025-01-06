@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @victor-scarano
-- 🌱 I’m currently learning Zig
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a student
+- Hi, I’m @victor-scarano
+- I’m currently learning Zig and writing a compiler in Rust!

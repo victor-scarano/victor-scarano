@@ -1,2 +1,3 @@
 - Hi, I’m @victor-scarano
-- I’m currently learning Zig and writing a compiler in Rust!
+- I’m currently learning Zig and using it to write a memory efficient and performant implementation of the NEAT algorithm.
+- I have plans in the future to write a compiler for a highly opinionated "dream" language.
